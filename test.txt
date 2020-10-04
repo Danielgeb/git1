@@ -1,2 +1,4 @@
 Hello, it is ok!
 Blessed dev 2!
+change made to understand .git
+
